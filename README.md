@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuni77
 - 👀 I’m interested in Programmation
-- 🌱 I’m currently learning Spring boot and Angular
+- 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
