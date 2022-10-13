@@ -26,8 +26,8 @@ I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortab
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Kuni77) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/Kuni77)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kuni77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amadou-diao-674b18238/)
-
+<!---[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kuni77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amadou-diao-674b18238/)
+--->
 >Made with :heart: by Kuni77.
 <!---
 Cheikh785/Cheikh785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
