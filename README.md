@@ -1,9 +1,9 @@
 ## Hi there 👋
-![I am a game developer]
+![I am a software developer]
 
-I am **Amadou Diao** from Senegal🇸🇳 and I am a 25-year-old young man curious, dynamic and above all passionate about everything related to games.
+I am **Amadou Diao** from Senegal🇸🇳 and I am a 27-year-old young man curious, dynamic and above all passionate about everything related to games.
 
-I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortable in some programming languages like java and C langage, I also do a little bit of Unity, Blender and C# for game development. I love programming and playing chess also.
+Motivated and qualified software engineer with comprehensive expertise in web development. Currently, I am enhancing my skills through a self-taught training in Python and computer vision, reflecting my commitment to staying at the forefront of technology. I am passionate about exploring new challenges and solving complex problems, and I excel in adapting to new environments and collaborating with diverse teams. I am eager to contribute to an innovative company in the IT field, where I can leverage my skills and dedication to tackle exciting new challenges and drive technological advancements.
 
 |         Language   |     Game engine       |     Modelisation & design |          Tools  |
 |--------------------|:-------------------:|--------------:|:------------------------------|
@@ -11,9 +11,9 @@ I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortab
 |          C         |                     |     FIGMA     |         Vs Code               |
 |   C++              |                     |     CANVA     |    Microsoft Vs               |
 |     Java           |                     | Blender       |     Github                    |  
-|                    |                     |               |                               |  
-- 🔭 I’m currently working on 3D game project. 
-- 🌱 I’m currently learning Blender 
+|        Python            |                     |               |                               |  
+- 🔭 I’m currently working on Angular and Spring boot. 
+- 🌱 I’m currently learning Python and Computer vision. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Chess | Mangas | Games | Programmation | Animes
 
