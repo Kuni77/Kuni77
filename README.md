@@ -6,10 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuni77" alt="kuni77" /></a> </p>
 
 - 🔭 I’m currently working as fullstack developer angular & spring-boot.
-- 🌱 I’m currently learning Python and Computer vision. 
+  
+- 🌱 I’m currently learning Python and Computer vision.
+  
 - 😄 Pronouns: he/him
+  
 - 💬 Ask me about **angular, spring-boot, flutter, C, data structures**
+  
 - 📫 How to reach me **amadoudiao72@gmail.com**
+  
 - ⚡ Fun fact: Chess | Mangas | Games | Programmation | Animes
 
 <h3 align="left">Connect with me:</h3>
@@ -82,7 +87,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuni77&show_icons=true&locale=en&layout=compact" alt="kuni77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamine2000&show_icons=true&locale=en" alt="kuni77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuni77&show_icons=true&locale=en" alt="kuni77" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuni77&" alt="kuni77" /></p>
 
 >Made with :heart: by Kuni77.
 
