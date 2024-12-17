@@ -82,7 +82,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuni77&show_icons=true&locale=en&layout=compact" alt="kuni77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuni77&show_icons=true&locale=en" alt="kuni77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamine2000&show_icons=true&locale=en" alt="kuni77" /></p>
 
 >Made with :heart: by Kuni77.
 
