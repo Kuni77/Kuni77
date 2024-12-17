@@ -89,7 +89,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuni77&show_icons=true&locale=en" alt="kuni77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuni77&" alt="kuni77" /></p>
-
 >Made with :heart: by Kuni77.
 
