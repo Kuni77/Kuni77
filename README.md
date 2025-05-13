@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuni77&label=Profile%20views&color=0e75b6&style=flat" alt="kuni77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linzo99" alt="kuni77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuni77" alt="kuni77" /></a> </p>
 
 - 🔭 I’m currently working as fullstack developer angular & spring-boot.
   
@@ -87,7 +87,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuni77&show_icons=true&locale=en&layout=compact" alt="kuni77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuni77&show_icons=true&locale=en" alt="kuni77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuni77&show_icons=true&locale=fr" alt="kuni77" /></p>
 
 >Made with :heart: by Kuni77.
 
